@@ -28,7 +28,6 @@ namespace netcoretest
             Configuration = builder.Build();
             repository = log4net.LogManager.CreateRepository("NETCoreRepository");
             log4net.Config.XmlConfigurator.Configure(repository, new System.IO.FileInfo("Config/log4net.config"));
-
         }
 
         public IConfiguration Configuration { get; }
