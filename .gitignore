@@ -50,3 +50,13 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+/NetCoreTest1/NetCoreTest1/ScaffoldingReadMe.txt
+/NetCoreTest1/NetCodeBase/bin/Debug/netcoreapp2.0
+/NetCoreTest1/NetCodeBase/obj
+/NetCoreTest1/NetCodeBus/obj
+/NetCoreTest1/NetCodeBus/bin/Debug/netcoreapp2.0
+/NetCoreTest1/NetCoreTest1/bin/Debug/netcoreapp2.0
+/NetCoreTest1/NetCoreTest1/logfile
+/NetCoreTest1/NetCoreTest1/obj
+/NetCoreTest1/NetCoreTest1/NetCoreTest1.csproj.user
+/NetCoreTest1/NetCoreTest1/netcoretest.csproj.user
