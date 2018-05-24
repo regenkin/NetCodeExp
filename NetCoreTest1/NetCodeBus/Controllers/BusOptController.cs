@@ -15,7 +15,7 @@ namespace NetCodeBase.Controllers
         [HttpGet]
         public IEnumerable<string> Get()
         {
-            return new string[] { "BusOpt4", "BusOpt4" };
+            return new string[] { "BusOpt5", "BusOpt5" };
         }
 
         //// GET: api/Test/5
