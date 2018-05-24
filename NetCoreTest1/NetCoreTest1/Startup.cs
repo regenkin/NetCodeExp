@@ -83,8 +83,8 @@ namespace netcoretest
 
             //        );
             //});
-            var log = log4net.LogManager.GetLogger(repository.Name, typeof(Startup));
-            log.Info("test");
+            //var log = log4net.LogManager.GetLogger(repository.Name, typeof(Startup));
+            //log.Info("test");
         }
 
     }
