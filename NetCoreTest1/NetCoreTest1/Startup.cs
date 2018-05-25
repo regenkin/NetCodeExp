@@ -41,7 +41,7 @@ namespace netcoretest
                 var feature = new Microsoft.AspNetCore.Mvc.Controllers.ControllerFeature();
                 string pathDir = AppDomain.CurrentDomain.BaseDirectory;
                 System.Reflection.Assembly controllerAssembly = null;
-                //循环载入第三方组件
+                //载入Controller配制循环载入第三方组件
                 controllerAssembly = System.Reflection.Assembly.LoadFile(pathDir +@"NetCodeBus.dll");
                 if (controllerAssembly!=null)
                 { 
